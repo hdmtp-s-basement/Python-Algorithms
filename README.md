@@ -3,4 +3,9 @@
     <h1>Python Algorithms</h1>
 </div>
 
+
 > A collection of different algorithms implemented in Python.
+
+![Tests](https://github.com/Siddhesh-Agarwal/Python-Algorithms/actions/workflows/bootstrap.yml/badge.svg)
+
+![Tests](https://github.com/Siddhesh-Agarwal/Python-Algorithms/actions/workflows/greetings.yml/badge.svg)
